@@ -20,14 +20,10 @@ Grizzyhackathon presentation : https://vimeo.com/manage/videos/807811108/privacy
 Version Beta presentation : https://vimeo.com/807866128?activityReferer=1
 
 Version Beta1 :
-We are a strong team that develops artificial intelligence algorithms.(But chatgpt is used for this demo.) We will enter Solana hackhatone with our mobile application. This application is designed as an application that gives personalized answers. Your NFT recognizes you and receives information from platforms such as Chatgpt and gives the necessary answers. But in the meantime, we put your audio and video information in a smaller format that artificial intelligence can process, and you earn MTCN for the first 10 minutes in return. Since many Cloud systems are used in the background, we start using your MTCNs after 10 minutes.
-In this way, you will have faster access to your special needs, as well as a special assistant who knows you better with your specific data.
+We are a strong team that develops AI algorithms. (But chatgpt is used for this demo) We will participate in the competition of the Solana hackhatona with our mobile application. It is designed as an application that gives personalized answers. Your NFT recognizes you and receives information from platforms such as Chatgpt and gives the necessary answers. But in the meantime, we put your audio and video information in a smaller format that AI can process, and you earn MTCN for the first 10 minutes in return.  Since many Cloud systems are running in the background, we start using your MTCNs after the first 10 minutes.
 
-Our app connects to a Phantom device at startup. Phantom uses custom Nfts in your wallet. These nfts give you personal 3D character. In addition, certain abilities of the character such as IQ and Creativity are coded with the data coming in these nfts. Their answers vary according to these abilities.
+In this way, you will have a special assistant who knows you better with your special data, as well as faster access to your special needs.
 
-In the future, you will be able to get to know this character personally and introduce your friends, and updates will be made accordingly.
+ Our app connects to a Phantom device in the beginning. Phantom uses custom Nfts in your wallet. These NFTs give you personal 3D character. In addition, certain abilities of the character such as IQ and Creativity are coded with the incoming data of these nfts.  Their answers vary according to these abilities.
 
-
-
-
-
+ In the future, you will be able to get to know this character personally and introduce them your friends, and it will be updated accordingly.
