@@ -10,13 +10,11 @@ Metacone introduces the “Teach-and-Earn” model to the world. T&E works in tw
 
 We chose the Solana ecosystem to issue our project, because transactions are very fast and low-cost. More importantly, there is an incredibly strong NFT community culture in Solana, and we have been in these communities since the very beginning.
 
-Our team consists of 12 people with very good experience in their domains. Our main office is in Ankara and the rest of the team resides in different locations: Istanbul, London and Toronto.
-
 You can find detailed information about metacone on our website.(https://metacone.io)
 https://www.youtube.com/watch?v=8WDZJxqpyLI
 Grizzyhackathon presentation : https://vimeo.com/manage/videos/807811108/privacy
 
-Beta1:
+Version Beta1 :
 We are a strong team that develops artificial intelligence algorithms. We will enter Solana hackhatona with our mobile application. This application is designed as an application that gives personalized answers. Your NFT recognizes you and receives information from platforms such as Chatgpt and gives the necessary answers. But in the meantime, we put your audio and video information in a smaller format that artificial intelligence can process, and you earn MTCN for the first 10 minutes in return. Since many Cloud systems are used in the background, we start using your MTCNs after 10 minutes.
 In this way, you will have faster access to your special needs, as well as a special assistant who knows you better with your specific data.
 
