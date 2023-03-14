@@ -10,8 +10,11 @@ Metacone introduces the “Teach-and-Earn” model to the world. T&E works in tw
 
 We chose the Solana ecosystem to issue our project, because transactions are very fast and low-cost. More importantly, there is an incredibly strong NFT community culture in Solana, and we have been in these communities since the very beginning.
 
+
 You can find detailed information about metacone on our website.(https://metacone.io)
+
 https://www.youtube.com/watch?v=8WDZJxqpyLI
+
 Grizzyhackathon presentation : https://vimeo.com/manage/videos/807811108/privacy
 
 Version Beta1 :
